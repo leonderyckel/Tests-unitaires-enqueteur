@@ -1,3 +1,8 @@
-
-On peut voir que le test coverage général couvre 85% des fichiers et 98% des lignes ce qui est acceptable étant donné que la classe enregistrement (équivalente à un main) n'est pas testé. Dans les autres classes, Les précondtions sont testé ainsi que les valeurs normales, limites. Les cas menant à des erreurs sont aussi testé ainsi que les cas problématiques et on peut voir que les tests les couvrent quasiment toutes à 100%. Il faut néanmoins préciser que le test coverage permet d'analyser quelle quantité de code est testé mais que ca ne veut pas dire que toutes les options ont été testé, cela veut juste dire que cette ligne de code a été exécuté par les tests au moins une fois. Cela ne veut pas non plus dire que cela est juste car l'on pourrait se tromper aussi dans ce que le test doit renvoyer. Cela dit le test coverage reste un bon indicateur de l'état du code et nous avons essayé de faire ca le mieux possible.
+On peut voir que le test coverage général couvre 85% des fichiers et 98% des lignes ce qui est acceptable étant donné que la classe enregistrement (équivalente à un main) n'est pas testé. 
+Dans les autres classes, Les précondtions sont testé ainsi que les valeurs normales, limites. Les cas menant à des erreurs sont aussi testé
+ainsi que les cas problématiques et on peut voir que les tests les couvrent quasiment toutes à 100%. Il faut néanmoins préciser que le test 
+coverage permet d'analyser quelle quantité de code est testé mais que ca ne veut pas dire que toutes les options ont été testé, cela veut 
+juste dire que cette ligne de code a été exécuté par les tests au moins une fois. Cela ne veut pas non plus dire que cela est juste car 
+l'on pourrait se tromper aussi dans ce que le test doit renvoyer. Cela dit le test coverage reste un bon indicateur de l'état du code 
+et nous avons essayé de faire ca le mieux possible.
 
